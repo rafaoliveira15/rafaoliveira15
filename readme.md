@@ -55,8 +55,7 @@
 </div>
 
 
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://hermes.dio.me/articles/cover/e43b602a-d5b1-40b8-a0b7-fcae39e1e060.png" width="725" height="406">
-
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://img.freepik.com/fotos-gratis/plano-de-fundo-de-programacao-com-pessoa-trabalhando-com-codigos-no-computador_23-2150010125.jpg">
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
