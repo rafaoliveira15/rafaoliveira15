@@ -56,6 +56,9 @@
 
 
 
+<img data-target="animated-image.replacedImage" alt="study.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/mari4souza/mari4souza/raw/main/src/study.gif" height="190px" style="display: block; opacity: 1;">
+
+
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
