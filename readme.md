@@ -8,9 +8,7 @@
 <img align="center" alt="" src="./src/header-gif.gif">
 
 **`Desenvolvedor FullStack`**
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-
+<p align="center"> Sou estudante do ensino médio técnico em Desenvolvimento de Sistemas no Senai. Sou apaixonada por tecnologia e programação, sempre buscando aprender e aprimorar minhas habilidades na área. Tenho interesse em desenvolver soluções inovadoras e estou constantemente explorando novas linguagens e ferramentas. Além dos estudos, gosto de desafios e de projetos que me permitam colocar em prática o que aprendo. Estou animada para crescer profissionalmente e contribuir para o mundo da tecnologia! ✨
 Follow in Instagram "[@rauln7](https://www.instagram.com/rauln7/)".
 
 
