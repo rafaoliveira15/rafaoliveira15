@@ -7,6 +7,8 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/02/87/d3/0287d3ba8b3330fca99f69e2001d3168.gif" width="725" height="408">
+
 **`Desenvolvedor FullStack`**
 <p align="center"> Sou estudante do ensino médio técnico em Desenvolvimento de Sistemas no Senai. Sou apaixonada por tecnologia e programação, sempre buscando aprender e aprimorar minhas habilidades na área. Tenho interesse em desenvolver soluções inovadoras e estou constantemente explorando novas linguagens e ferramentas. Além dos estudos, gosto de desafios e de projetos que me permitam colocar em prática o que aprendo. Estou animada para crescer profissionalmente e contribuir para o mundo da tecnologia! ✨
 
