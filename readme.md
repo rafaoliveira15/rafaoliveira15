@@ -5,7 +5,7 @@
   </a>
 </div>
 
-    <img align="center" alt="" src="./src/header-gif.gif">
+   <img align="center" alt="" src="./src/header-gif.gif">
 
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/02/87/d3/0287d3ba8b3330fca99f69e2001d3168.gif" width="725" height="408">
 
