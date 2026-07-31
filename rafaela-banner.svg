@@ -1,0 +1,44 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Rafaela</title>
+  <desc>Banner com o nome Rafaela em estilo glitch, tons de magenta</desc>
+
+  <defs>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF00F6" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#FF00F6" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#FF00F6" stop-opacity="0.15"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="none"/>
+      <line x1="0" y1="0" x2="4" y2="0" stroke="#FF00F6" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="220" fill="url(#scan)"/>
+  <rect x="0" y="100" width="900" height="4" fill="url(#glow)"/>
+
+  <text x="450" y="130" text-anchor="middle" font-family="'Courier New', monospace" font-weight="900"
+        font-size="88" letter-spacing="6" fill="#7A00A8" opacity="0.55">
+    <animate attributeName="x" values="450;444;450" dur="2.6s" repeatCount="indefinite"/>
+    RAFAELA
+  </text>
+
+  <text x="450" y="130" text-anchor="middle" font-family="'Courier New', monospace" font-weight="900"
+        font-size="88" letter-spacing="6" fill="#00E5FF" opacity="0.35">
+    <animate attributeName="x" values="450;456;450" dur="2.9s" repeatCount="indefinite"/>
+    RAFAELA
+  </text>
+
+  <text x="450" y="130" text-anchor="middle" font-family="'Courier New', monospace" font-weight="900"
+        font-size="88" letter-spacing="6" fill="#FF00F6">
+    RAFAELA
+    <animate attributeName="opacity" values="1;0.85;1;1;0.9;1" dur="3.2s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="450" y="165" text-anchor="middle" font-family="'Courier New', monospace" font-weight="700"
+        font-size="16" letter-spacing="8" fill="#FF00F6" opacity="0.8">
+    OLIVEIRA
+  </text>
+
+  <line x1="150" y1="185" x2="750" y2="185" stroke="#FF00F6" stroke-width="1" stroke-opacity="0.4"/>
+</svg>
