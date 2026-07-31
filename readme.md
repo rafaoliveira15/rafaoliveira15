@@ -7,10 +7,41 @@
 
    <img align="center" alt="" src="./src/header-gif.gif">
    
-<div align="center">
- 
-  Sou estudante do ensino médio técnico em Desenvolvimento de Sistemas no Senai. Sou apaixonada por tecnologia e programação, sempre buscando aprender e aprimorar minhas habilidades na área. Tenho interesse em desenvolver soluções inovadoras e estou constantemente explorando novas linguagens e ferramentas. Além dos estudos, gosto de desafios e de projetos que me permitam colocar em prática o que aprendo. Estou animada para crescer profissionalmente e contribuir para o mundo da tecnologia! 
-</div>
+
+```javascript
+// profile.js
+
+/**
+ * Oi, eu sou a Rafaela Oliveira
+ * Estudante do Técnico em Desenvolvimento de Sistemas - SENAI
+ * Sou apaixonada por tecnologia e programação, sempre buscando aprender
+e aprimorar minhas habilidades na área. Tenho interesse em desenvolver soluções
+inovadoras e estou constantemente explorando novas linguagens e ferramentas. Além
+dos estudos, gosto de desafios e de projetos que me permitam colocar em prática o que aprendo.
+Estou animada para crescer profissionalmente e contribuir para o mundo da tecnologia! 
+ */
+
+const rafaela = {
+  role: "Estudante de Desenvolvimento de Sistemas",
+  frontend: ["HTML", "CSS", "JavaScript", "Bootstrap"],
+  backend: ["PHP", "MySQL"],
+  tools: ["Git", "GitHub", "Markdown"],
+  links: {
+    linkedin: "linkedin.com/in/rafaela-cristina-araujo-oliveira-19873b352",
+    instagram: "instagram.com/rafaoliveira15_",
+    email: "rafaelacristina1510.oliveira@gmail.com"
+  }
+};
+
+console.log(`Oi, eu sou a ${rafaela.role}`);
+
+export default rafaela;
+
+// obrigada pela visita
+```
+
+---
+
 
 
 #
